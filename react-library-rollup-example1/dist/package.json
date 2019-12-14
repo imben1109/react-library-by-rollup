@@ -1,0 +1,8 @@
+{
+  "name": "react-library-rollup-example1",
+  "version": "1.0.0",
+  "main": "bundles/bundle.js",
+  "peerDependencies": {
+    "react": "^16.12.0"
+  }
+}
